@@ -1,1 +1,1 @@
-Web Developer Bootcamp - To-Do List
+Web Developer Bootcamp - Todo List
